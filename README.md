@@ -105,5 +105,4 @@ MIT or Apache-2.0
 
 
 ## Contact
-
-Eyhab Al-Masri — `ealmasri@uw.edu`
+TBD
